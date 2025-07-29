@@ -7,8 +7,6 @@
   - Algoritmos de ordenación adaptados a restricciones de movimientos.
   - Gestión de memoria y punteros en C.
 
----
-
 ![Operaciones](https://img.shields.io/badge/Operaciones-green?style=for-the-badge)
 
 Se disponen de dos pilas, **A** y **B**, y estas operaciones:
