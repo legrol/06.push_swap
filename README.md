@@ -57,7 +57,7 @@ Se disponen de dos pilas, **A** y **B**, y estas operaciones:
 
 - make clean — Elimina los objetos intermedios (*.o).
 
-- make fclean— Además de clean, elimina libpush.a y el binario.
+- make fclean — Además de clean, elimina libpush.a y el binario.
 
 - make re — Ejecuta fclean y luego all.
 
