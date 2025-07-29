@@ -25,8 +25,6 @@ Se disponen de dos pilas, **A** y **B**, y estas operaciones:
 | `rrb`  | Reverse rotate: desplaza todos los de B ↓      |
 | `rrr`  | `rra` y `rrb` al mismo tiempo                  |
 
----
-
 ![Estructura](https://img.shields.io/badge/Estructura-orange?style=for-the-badge)
 
 ```text
