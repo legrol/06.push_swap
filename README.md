@@ -1,5 +1,3 @@
----
-
 ![Descripción](https://img.shields.io/badge/Descripción-blue?style=for-the-badge)
 
 - Implementación del proyecto **push_swap** de 42: ordenar una lista de enteros usando dos pilas y un conjunto limitado de operaciones.
