@@ -63,15 +63,15 @@ Se disponen de dos pilas, **A** y **B**, y estas operaciones:
 
 ![Uso](https://img.shields.io/badge/Uso-yellow?style=for-the-badge)
 
-Ejecutar en terminal
-  
-  ./push_swap 3 2 5 1 4
+ 1. Ejecutar en terminal
+    
+        ./push_swap 3 2 5 1 4
 
-    - Cada argumento es un entero (puede repetirse el signo “−”).
+- Cada argumento es un entero (puede repetirse el signo “−”).
 
-    - El programa imprime en stdout la lista de operaciones, una por línea.
+- El programa imprime en stdout la lista de operaciones, una por línea.
 
-    - Para verificar el resultado, puedes usar checker (parte bonus) que aplica esas operaciones y comprueba el orden.
+- Para verificar el resultado, puedes usar checker (parte bonus) que aplica esas operaciones y comprueba el orden.
     
 ![Autor](https://img.shields.io/badge/Autor-red?style=for-the-badge)
 
